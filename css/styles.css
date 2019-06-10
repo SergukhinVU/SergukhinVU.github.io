@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #b3ffe6;
+}
+
+#f {
+  font-size: 20px;
+  margin-top: 150px;
+}
+
+.s1 {
+  width: 1000px;
+  margin: auto;
+}
+
+.s2 {
+  width: 300px;
+  margin: auto;
+}
